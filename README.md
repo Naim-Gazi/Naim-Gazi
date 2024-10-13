@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Naim Gazi</h1>
-<h3 align="center">Coder, Developer & Freelancer</h3>
+<h3 align="center">Designer, Coder & Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&lines=Welcome+to+my+GitHub+profile!;I+am+a+freelancer!;I+design+and+develop+tools!&center=true&width=380&height=45">
 </p>
+
+---
+
+<h2>About Me</h2>
+<ul>
+  <li>👋 Hi, I’m Naim Gazi</li>
+  <li>👀 I’m interested in Technology and Design</li>
+  <li>🌱 I’m currently learning UI/UX</li>
+  <li>🤝 I’m looking to collaborate on projects that make a positive impact</li>
+  <li>⚡ Fun fact: I love problem-solving!</li>
+</ul>
 
 ---
 
@@ -38,16 +49,6 @@
 
 ---
 
-<h2 align="center">🌍 Languages I Speak</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Russian-%23A1C4F1.svg?&style=flat-square&logo=Russian&logoColor=white" alt="Russian" />
-  <img src="https://img.shields.io/badge/English-%230072B3.svg?&style=flat-square&logo=English&logoColor=white" alt="English" />
-  <img src="https://img.shields.io/badge/Hindi-%23F24E1E.svg?&style=flat-square&logo=Hindi&logoColor=white" alt="Hindi" />
-  <img src="https://img.shields.io/badge/Bengali-%23D02E24.svg?&style=flat-square&logo=Bengali&logoColor=white" alt="Bengali" />
-</p>
-
----
-
 <h2 align="center">💼 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/naim-gazi/">
@@ -61,13 +62,17 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>💬 I'm most active on Telegram. Feel free to reach out to me there!</strong>
+</p>
+
 ---
 
 <h2 align="center">👨‍💻 Projects & Contributions</h2>
 <ul>
-  <li>👕 <strong>T-Shirt Design</strong> - Designed T-Shirts featuring custom artworks like the <em>Sunflower T-Shirt for Girls</em>.</li>
-  <li>🤖 <strong>Telegram Bot</strong> - Developed a Telegram bot for various tasks and automation.</li>
-  <li>💡 <strong>RG AIRDROPS YouTube Channel</strong> - Providing tips on online earning and airdrops.</li>
+  <li>🤖 <strong>Telegram Bot</strong> - Created a multifunctional bot for task automation and improved user interaction.</li>
+  <li>🌐 <strong>Portfolio Website</strong> - Developed a website to showcase projects and skills using modern web technologies.</li>
+  <li>📊 <strong>Web Application Development</strong> - Built responsive web applications focusing on user experience.</li>
 </ul>
 
 ---
